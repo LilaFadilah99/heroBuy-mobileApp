@@ -1,3 +1,4 @@
+[Click Link Deploy Here](https://expo.dev/@dilaff/BrandShowcase?serviceType=classic&distribution=expo-go)
 # Hero Buy
 Simple Mobile App yang akan membantu user untuk berbelanja barang dan mendapatkan informasi dari brand tertentu
 
